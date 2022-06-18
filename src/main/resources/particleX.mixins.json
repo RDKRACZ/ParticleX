@@ -6,9 +6,9 @@
   "mixins": [
   ],
   "client": [
-    "EmitterParticleMixin"
+	"EmitterParticleMixin"
   ],
   "injectors": {
-    "defaultRequire": 1
+	"defaultRequire": 1
   }
 }
